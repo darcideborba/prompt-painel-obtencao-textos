@@ -1,0 +1,24 @@
+{
+  "title": "Prompt: Painel de Obtenção de Textos (RSL/Meta-análise)",
+  "description": "Prompt operacional para gerar painel HTML de arquivo único que acompanha a obtenção de textos completos de um corpus de referências (Scopus, WoS, RIS, BibTeX), com deduplicação, acesso aberto, filtros e exportação de pendentes. Inclui o script Python extraído do prompt. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "meta-análise",
+    "pesquisa acadêmica",
+    "revisão sistemática",
+    "PRISMA",
+    "Python",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
